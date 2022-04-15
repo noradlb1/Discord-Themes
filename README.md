@@ -193,48 +193,27 @@ Discord-Themes
 
 ![Revert Rebrand](https://user-images.githubusercontent.com/74623428/163512334-5f28cddd-05a7-4b3c-ab89-a50215546e41.png)
 
-https://i.ibb.co/vPdN8tR/Server-Columns.png
 
-https://i.ibb.co/3NGD8WZ/Settings-Modal.png
-
-https://i.ibb.co/7G7KxsK/Simplify.png
-
-https://i.ibb.co/r7yn1yf/Simply-Dark.png
-
-https://i.ibb.co/BTrMmCk/Skeuo-Cord.png
-
-https://i.ibb.co/WPTwNjg/Slate.png
-
-https://i.ibb.co/v3B7Dq2/Slook-Remastered.png
-
-https://i.ibb.co/FBjLCtB/Smooth-Theme.png
-
-https://i.ibb.co/gv75g0Z/SoftX.png
-
-https://i.ibb.co/YRwL90j/Spectra.png
-
-https://i.ibb.co/jzgX0mH/Spoti-Cord.png
-
-https://i.ibb.co/9ZYRPxW/Spotify-Discord.png
-
-https://i.ibb.co/mqXKzS8/T1.png
-
-https://i.ibb.co/CVP54c8/Tokyo-Night.png
-
-https://i.ibb.co/18GcfpP/Tranquil.png
-
-https://i.ibb.co/Bt6nKpm/Translucence.png
-
-https://i.ibb.co/2Ym0wXN/Twitter-Dim-Mode.png
-
-https://i.ibb.co/tBzprT4/Ultra.png
-
-https://i.ibb.co/DGpcRzB/Vibrant-Glass.png
-
-https://i.ibb.co/BGtYC1B/VSC-Cord.png
-
-https://i.ibb.co/YWMH0hR/Wildberry.png
-
-https://i.ibb.co/zsQDF9M/Windows-XI.png
-
-https://i.ibb.co/ZLQTssW/Zelk.png
+<a href="https://ibb.co/qsgHwZV"><img src="https://i.ibb.co/G2MZjhN/Server-Columns.png" alt="Server-Columns" border="0"></a>
+<a href="https://ibb.co/hWhPnHz"><img src="https://i.ibb.co/qsXt49Q/Settings-Modal.png" alt="Settings-Modal" border="0"></a>
+<a href="https://ibb.co/vJ2kC0k"><img src="https://i.ibb.co/LC41DV1/Simplify.png" alt="Simplify" border="0"></a>
+<a href="https://ibb.co/ngkh5k8"><img src="https://i.ibb.co/qy1bP1F/Simply-Dark.png" alt="Simply-Dark" border="0"></a>
+<a href="https://ibb.co/5snHdRZ"><img src="https://i.ibb.co/gtPKGRY/Skeuo-Cord.png" alt="Skeuo-Cord" border="0"></a>
+<a href="https://ibb.co/qWZfLVk"><img src="https://i.ibb.co/CMrZpDh/Slate.png" alt="Slate" border="0"></a>
+<a href="https://ibb.co/ByPXw38"><img src="https://i.ibb.co/X74hVLm/Slook-Remastered.png" alt="Slook-Remastered" border="0"></a>
+<a href="https://ibb.co/zS0TDwS"><img src="https://i.ibb.co/JzMwgPz/Smooth-Theme.png" alt="Smooth-Theme" border="0"></a>
+<a href="https://ibb.co/SQxhvkw"><img src="https://i.ibb.co/9wvFYxH/SoftX.png" alt="SoftX" border="0"></a>
+<a href="https://ibb.co/6nLWhXs"><img src="https://i.ibb.co/f1LxRD0/Spectra.png" alt="Spectra" border="0"></a>
+<a href="https://ibb.co/W0gJ8Zs"><img src="https://i.ibb.co/dtGYCF7/Spoti-Cord.png" alt="Spoti-Cord" border="0"></a>
+<a href="https://ibb.co/8Y8Fky9"><img src="https://i.ibb.co/5KcqZQL/Spotify-Discord.png" alt="Spotify-Discord" border="0"></a>
+<a href="https://ibb.co/yyYCsVS"><img src="https://i.ibb.co/0MFLJQt/T1.png" alt="T1" border="0"></a>
+<a href="https://ibb.co/h2YRr69"><img src="https://i.ibb.co/DwrDmJW/Tokyo-Night.png" alt="Tokyo-Night" border="0"></a>
+<a href="https://ibb.co/NZ2R6kJ"><img src="https://i.ibb.co/hDF0Rn4/Tranquil.png" alt="Tranquil" border="0"></a>
+<a href="https://ibb.co/bPvbR0x"><img src="https://i.ibb.co/QfHDjgZ/Translucence.png" alt="Translucence" border="0"></a>
+<a href="https://ibb.co/7N8xH74"><img src="https://i.ibb.co/cXMKPzL/Twitter-Dim-Mode.png" alt="Twitter-Dim-Mode" border="0"></a>
+<a href="https://ibb.co/PxMGHvN"><img src="https://i.ibb.co/gydZKL3/Ultra.png" alt="Ultra" border="0"></a>
+<a href="https://ibb.co/4sdvVKb"><img src="https://i.ibb.co/Xy80Cjn/Vibrant-Glass.png" alt="Vibrant-Glass" border="0"></a>
+<a href="https://ibb.co/NrsGy4K"><img src="https://i.ibb.co/G90r5hR/VSC-Cord.png" alt="VSC-Cord" border="0"></a>
+<a href="https://ibb.co/kyfNmXH"><img src="https://i.ibb.co/j52nJD6/Wildberry.png" alt="Wildberry" border="0"></a>
+<a href="https://ibb.co/ZdG7S4j"><img src="https://i.ibb.co/Q9ptkSg/Windows-XI.png" alt="Windows-XI" border="0"></a>
+<a href="https://ibb.co/GxZPwwc"><img src="https://i.ibb.co/QbWmBBr/Zelk.png" alt="Zelk" border="0"></a>
